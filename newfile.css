@@ -1,0 +1,145 @@
+.background-image{
+    width: 100%;
+  height: 480px;
+  background-image: url('homepage.png');
+  background-size: cover;
+  
+}
+
+.Login{
+  
+text-align: left;
+font: normal normal medium 16px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+
+.Create-an-account{
+  text-align: left;
+font: normal normal medium 16px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+border:1px solid #FFFFFF;
+border-radius: 3px;
+}
+
+#elogo{
+width: 147px;
+height: 147px;
+text-align: center;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+font: normal normal 600 70px/106px Poppins;
+border: 1px solid #707070;
+border-radius: 50%;
+display: inline-block;
+color: #EB2929;
+font-size: 70px;
+font-weight: 600;
+
+}
+p{
+  margin-top:15px;
+  margin-bottom:1rem;
+}
+
+#main_heading{
+  
+  text-align: left;
+font: normal normal 600 36px/55px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+
+
+#select-Location{
+  width: 245px;
+  height: 38px;
+  font: normal normal normal 15px/23px Poppins;
+letter-spacing: 0px;
+color: #636F88;
+}
+
+.heading{
+  width: 239px;
+height: 43px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 30px/46px Poppins;
+letter-spacing: 0px;
+color: #192F60;
+}
+
+.subheading{
+width: 331px;
+height: 25px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 18px/27px Poppins;
+letter-spacing: 0px;
+color: #8C96AB;
+}
+.box{
+  width:1200px;
+  margin-left:83px;
+  height:160px;
+}
+.box2{
+  width:1200px;
+  margin-left:83px;
+  height:160px;
+  margin-top:30px;
+}
+
+.foodtype-container{
+  margin-top:33px;
+          height: 160px;
+          width:360px;
+          background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+}
+
+.foodtype-images{
+  display: inline-block;
+  object-fit: none;
+  width: 160px;
+  height: 160px;
+
+}
+
+.foodtype-details{
+  
+  width: 200px;
+  
+
+/* margin: 29px 33px 25px 44px; */
+}
+
+.foodtype-name{
+
+/* UI Properties */
+
+
+font: normal normal 600 18px/27px Poppins;
+letter-spacing: 0px;
+color: #192F60;
+}
+.foodtype-description{
+  
+  text-align: left;
+font: normal normal normal 14px/21px Poppins;
+letter-spacing: 0px;
+color: #8C96AB;
+}
+.search_text{
+  text-align: left;
+font: normal normal normal 15px/23px Poppins;
+letter-spacing: 0px;
+color: #636F88;
+}
+
+#header-box2{
+  
+  width:477px;
+  height:60px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+}
